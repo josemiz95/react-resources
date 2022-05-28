@@ -14,5 +14,4 @@ export const MultipleCustomHooks = () => {
     </div>
   )
 }
-
 ```
